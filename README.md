@@ -1,2 +1,2 @@
 # CS444
-Assignment submission for all the Machine Programming assignments
+Assignment solutions for CS444 Spring2023
